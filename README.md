@@ -1,5 +1,5 @@
 # The-Vaibhav-Hariramani-App
-Vaibhav Hariramani App consist of Tutorials,Projects,Blogs and Vlogs of our Site developed Using Android Studio with Web View
+Vaibhav Hariramani App consist of Tutorials,Projects,Blogs and Vlogs of our Site developed Using Android Studio with Web View try installing it in your android device.
 ### Made with ❤️by Vaibhav Hariramani
 #### About me
 
