@@ -1,10 +1,12 @@
 # The-Vaibhav-Hariramani-App
 Vaibhav Hariramani App consist of Tutorials,Projects,Blogs and Vlogs of our Site developed Using Android Studio with Web View try installing it in your android device.
+
+
+<img width="250" align='left' src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version2.0/splash.png"> <img width="250" align='left' src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version2.0/splash.png"> <img width="250" align='left' src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version2.0/splash.png">
+
 # The-Vaibhav-Hariramani-App version 2.0 (with push notification)
 
 [The Vaibhav Hariramani App (Latest Version) ](https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/raw/master/vaibhav%20hariramani%20app.apk)
-
-<img width="250" align='left' src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version2.0/splash.png"> <img width="250" align='left' src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version2.0/splash.png"> <img width="250" align='left' src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version2.0/splash.png">
 
 # The Vaibhav Hariramani Version 1.0
 
